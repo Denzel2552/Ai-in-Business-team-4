@@ -8,15 +8,18 @@ other sections alphabetical.
 
 ## Sources
 
-*None yet.*
+- [[2025-12-12-cbs-bedrijven-gebruiken-ai-vaakst-voor-marketing-of-verkoop]] — CBS news release (12 Dec 2025) on AI use by Dutch businesses by size, purpose, technology, sector and reasons for non-use.
 
 ## Entities
 
-*None yet.*
+- [[cbs]] — Statistics Netherlands, the Dutch national statistics office.
 
 ## Concepts
 
-*None yet.*
+- [[ai-adoption-barriers]] — The reasons firms give for not using AI.
+- [[ai-adoption-by-firm-size]] — How the share of firms using AI changes with firm size.
+- [[ai-use-purposes]] — The business functions firms use AI for.
+- [[text-mining]] — AI that analyses written text, the fastest-growing AI technology in Dutch firms.
 
 ## Syntheses
 
